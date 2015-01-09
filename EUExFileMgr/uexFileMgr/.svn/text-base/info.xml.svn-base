@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<uexplugins>
-    <plugin
-        uexName="uexFileMgr" version="3.0.2" build="2">
-        <info>2:修复uexFileMgr.seekFile方法指定位置后uexFileMgr.readNext方法还是从头读取的BUG</info>
-        <build>1:修复选择本地照片崩溃的bug</build>
-    </plugin>
-</uexplugins>
